@@ -30,7 +30,7 @@ supplier_colors = {
     "Sup2": "#A4C2F4",  # light blue
 }
 
-st.title("Dynamic Stock ETA Table Generator — Qty/SS Aware (Strict LOB Match)")
+st.title("Dynamic Stock ETA Table Generator")
 
 # ---------- Helpers ----------
 def _std_str_series(s):
